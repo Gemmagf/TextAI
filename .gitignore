@@ -1,0 +1,8 @@
+# Ignorar l'entorn virtual
+venv310/
+
+# Ignorar fitxers de sistema
+.DS_Store
+
+# Ignorar fitxers temporals o logs
+*.log
