@@ -1,0 +1,8 @@
+cd ~/git_projectes/TextAI/model
+source venv/bin/activate
+python train_model.py
+# o si només tens python3
+python3 train_model.py
+
+
+
